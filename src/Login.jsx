@@ -50,7 +50,7 @@ const Login = () => {
         Submit
       </Button>
     </Form>
-      <p> If you don't Have Account <a href="/">SignIn</a></p>
+      <p> If you do not Have Account <a href="/">SignIn</a></p>
     </div>
     </div>
   )
